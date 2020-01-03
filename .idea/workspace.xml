@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MineSweeper:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="735e8ab2-2073-4a64-aa00-3be4373aa5b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VrNh9TwU9dUGdZ39lc08o52OP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.28965518" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GameController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gnarlyhub.minesweeper.GameController" />
+      <module name="MineSweeper" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gnarlyhub.minesweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.gnarlyhub.minesweeper.GameController" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GameController" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="735e8ab2-2073-4a64-aa00-3be4373aa5b1" name="Default Changelist" comment="" />
+      <created>1578007370245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578007370245</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1578007780067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1578007780067" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578056214070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1578056214070" />
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578056449026">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="197" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1578056449026" />
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom" timestamp="1578057036144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578057036144" />
+    <state width="1493" height="203" key="GridCell.Tab.0.center" timestamp="1578057036144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578057036144" />
+    <state width="1493" height="203" key="GridCell.Tab.0.left" timestamp="1578057036144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578057036144" />
+    <state width="1493" height="203" key="GridCell.Tab.0.right" timestamp="1578057036144">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578057036144" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1578056481453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578056481453" />
+    <state x="462" y="10" width="611" height="804" key="find.popup" timestamp="1578008095916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="10" width="611" height="804" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1578008095916" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1578055317575">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578055317575" />
+  </component>
+</project>

@@ -1,0 +1,14 @@
+
+Isquid:S3010"&Remove this assignment of "remFields".(ùõßôùÿÿÿÿ8ëÜ¼Ûö-
+=squid:S1659"Declare "y" on a separate line.(õ°Òİ8ëÜ¼Ûö-
+Asquid:S1659"#Declare "currT" on a separate line.(øØãŒ8ëÜ¼Ûö-
+Hsquid:S2387"*"y" is the name of a field in "Component".(õ°Òİ8üŞãÛö-
+Hsquid:S2387"*"x" is the name of a field in "Component".(õ°Òİ8üŞãÛö-
+Esquid:S3010""Remove this assignment of "currX".(€—­¾ûÿÿÿÿ8ëÜ¼Ûö-
+Š squid:ForLoopCounterChangedCheck$"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8ëÜ¼Ûö-
+psquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(âğ§œ8ëÜ¼Ûö-
+@squid:S3010""Remove this assignment of "currY".(·ôÜÅ8ëÜ¼Ûö-
+=squid:S1659"Declare "t" on a separate line.(õ°Òİ8ëÜ¼Ûö-
+Esquid:S3010""Remove this assignment of "currT".(¯óıÿÿÿÿ8ëÜ¼Ûö-
+Asquid:S3010"#Remove this assignment of "opened".(¿©•ò8ëÜ¼Ûö-
+Asquid:S1659"#Declare "currY" on a separate line.(øØãŒ8ëÜ¼Ûö-
